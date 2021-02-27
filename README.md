@@ -1,3 +1,3 @@
 # YASSB website
 
-This is the repository for the GitHub page of YASSB, visit [https://yassb-foss.github.io/](the website), or check out the [https://github.com/YASSB-FOSS/yassb](repository of the project).
+This is the repository for the GitHub page of YASSB, visit [the website](https://yassb-foss.github.io/), or check out the [repository of the project](https://github.com/YASSB-FOSS/yassb).
