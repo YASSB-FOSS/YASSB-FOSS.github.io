@@ -1,0 +1,27 @@
+{
+  "name": "yassb-web",
+  "version": "1.0.0",
+  "description": "YASSB (Yet Another Static Site Builder) website",
+  "scripts": {
+    "addfiles": "git add --all",
+    "commitfiles": "git commit -m \"New version\"",
+    "pushversion": "git push -u origin master",
+    "deploy": "npm run addfiles && npm run commitfiles && npm run pushversion"
+  },
+  "homepage": "https://yassb-foss.github.io/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YASSB-FOSS/yassb.git"
+  },
+  "keywords": [
+    "static website",
+    "html",
+    "static",
+    "website",
+    "website builder",
+    "website generator",
+    "serverless"
+  ],
+  "author": "ilDon",
+  "license": "MIT"
+}
